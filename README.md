@@ -5,11 +5,6 @@
 - 📫 How to reach me Email:teamuniverse.omm@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I love Cats
-- <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ommdevgoswami&label=Profile%20views&color=0e75b6&style=flat" alt="ommdevgoswami" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ommdevgoswami" alt="ommdevgoswami" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
