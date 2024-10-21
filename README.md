@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Full-Stack Web Development
 - 💞️ I’m looking to collaborate on some upcoming Hackathon and Web-development Projects
 - 📫 How to reach me Email:teamuniverse.omm@gmail.com
-- 😄 Pronouns: Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cats
 
 <h3 align="left">Languages and Tools:</h3>
