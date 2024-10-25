@@ -21,3 +21,13 @@ OmmDevgoswami/OmmDevgoswami is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [![An image of @ommdevgoswami's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ommdevgoswami)](https://holopin.io/@ommdevgoswami)
+
+## GSSOC24-extd Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://res.cloudinary.com/deuwunijk/image/upload/v1729841812/Postman_Badge_pgp7of.png" width="100px" height="100px" />
+  <img src="https://res.cloudinary.com/deuwunijk/image/upload/v1729841824/Explorer_Badge_pfgywg.png" width="100px" height="100px" />
+  <img src="https://res.cloudinary.com/deuwunijk/image/upload/v1729841837/Adventurer_Badge_zjypmc.png" width="100px" height="100px" />
+  <img src="https://res.cloudinary.com/deuwunijk/image/upload/v1729841849/Trailblazer_Badge_xsahng.png" width="100px" height="100px" />
+  <img src="https://res.cloudinary.com/deuwunijk/image/upload/v1729841860/Summit_Seeker_Badge_ska1lq.png" width="100px" height="100px" />
+  <img src="https://res.cloudinary.com/deuwunijk/image/upload/v1729841868/Champion_Badge_plojtc.png" width="100px" height="100px" />
+</div>
