@@ -30,4 +30,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://res.cloudinary.com/deuwunijk/image/upload/v1729841849/Trailblazer_Badge_xsahng.png" width="100px" height="100px" />
   <img src="https://res.cloudinary.com/deuwunijk/image/upload/v1729841860/Summit_Seeker_Badge_ska1lq.png" width="100px" height="100px" />
   <img src="https://res.cloudinary.com/deuwunijk/image/upload/v1729841868/Champion_Badge_plojtc.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+</div>
+</details>
 </div>
