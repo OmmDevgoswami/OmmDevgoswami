@@ -15,7 +15,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ommdevgoswami&" alt="ommdevgoswami" /></p>
 
-
 <!---
 OmmDevgoswami/OmmDevgoswami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -34,3 +33,22 @@ You can click the Preview link to take a look at your changes.
 </div>
 </details>
 </div>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/omm-devgoswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/omm-devgoswami" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/ommdevgoswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ommdevgoswami" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/devgoswamiomm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/devgoswamiomm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/omm-devgoswami-86a561214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omm-devgoswami-86a561214/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28149967/omm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28149967/omm" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100011561745690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011561745690" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/omm_devgoswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/omm_devgoswami/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/teamuniverse_omm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/teamuniverse_omm" height="30" width="40" /></a>
+<a href="https://discord.gg/asahi1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asahi1508" height="30" width="40" /></a>
+</p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=OmmDevgoswami&icon=2&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
