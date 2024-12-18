@@ -33,6 +33,16 @@ You can click the Preview link to take a look at your changes.
 </details>
 </div>
 
+# Codédex Mini-Hackathon ❄️
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <iframe
+  src="https://www.credential.net/embed/27297933-623d-4b02-9476-b70e8526f28f"
+  width="800"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
