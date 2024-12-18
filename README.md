@@ -35,13 +35,9 @@ You can click the Preview link to take a look at your changes.
 
 # Codédex Mini-Hackathon ❄️
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <iframe
-  src="https://www.credential.net/embed/27297933-623d-4b02-9476-b70e8526f28f"
-  width="800"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+  <a href="https://www.credential.net/27297933-623d-4b02-9476-b70e8526f28f#acc.jYtZAmTo" style="text-decoration:none">
+    <img src="https://i.postimg.cc/jSbkW21W/8318922e-e125-41a7-ab45-7f7f0670fa50.png" width="100px" height="100px" />
+  </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
