@@ -1,3 +1,5 @@
+<div class="tenor-gif-embed" data-postid="17485657" data-share-method="host" data-aspect-ratio="1.10727" data-width="100%"><a href="https://tenor.com/view/cat-paw-kitty-loading-meow-loading-gif-17485657">Cat Paw GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 - 👋 Hi, I’m @OmmDevgoswami
 - 👀 I’m interested in have a Overall Knowledge about different Topics
 - 🌱 I’m currently learning Python, Full-Stack Web Development
@@ -7,9 +9,6 @@
 - ⚡ Fun fact: I love Cats
 
 <h3 align="left">Languages and Tools:</h3>
-###
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhkZmk5Y280a3lhNmQxcnFia3I0aDgyMGRwcmtsaG04a2JlaHp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
-###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
