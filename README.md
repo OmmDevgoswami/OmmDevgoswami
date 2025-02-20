@@ -1,5 +1,3 @@
-<div class="tenor-gif-embed" data-postid="17485657" data-share-method="host" data-aspect-ratio="1.10727" data-width="100%"><a href="https://tenor.com/view/cat-paw-kitty-loading-meow-loading-gif-17485657">Cat Paw GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 - 👋 Hi, I’m @OmmDevgoswami
 - 👀 I’m interested in have a Overall Knowledge about different Topics
 - 🌱 I’m currently learning Python, Full-Stack Web Development
@@ -37,11 +35,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ommdevgoswami&show_icons=true&locale=en&layout=compact" alt="ommdevgoswami" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OmmDevgoswami&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmmDevgoswami&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ommdevgoswami&show_icons=true&locale=en" alt="ommdevgoswami" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ommdevgoswami&" alt="ommdevgoswami" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=OmmDevgoswami&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!---
 OmmDevgoswami/OmmDevgoswami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
