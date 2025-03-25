@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/deuwunijk/image/upload/v1742932546/cat_laptop_GIF_kayhos.gif" height="270px" align="right" />
+
 - 👋 Hi, I’m @OmmDevgoswami
 - 👀 I’m interested in have a Overall Knowledge about different Topics
 - 🌱 I’m currently learning Python, Full-Stack Web Development
@@ -5,6 +7,12 @@
 - 📫 How to reach me Email:teamuniverse.omm@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmDevgoswami/OmmDevgoswami/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmDevgoswami/OmmDevgoswami/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OmmDevgoswami/OmmDevgoswami/output/pacman-contribution-graph.svg">
+</picture>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
