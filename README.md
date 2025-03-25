@@ -8,12 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmDevgoswami/OmmDevgoswami/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmDevgoswami/OmmDevgoswami/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OmmDevgoswami/OmmDevgoswami/output/pacman-contribution-graph.svg">
-</picture>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
