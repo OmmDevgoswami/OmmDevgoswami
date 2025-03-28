@@ -85,4 +85,6 @@ You can click the Preview link to take a look at your changes.
 ---
 [![](https://visitcount.itsvg.in/api?id=OmmDevgoswami&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
