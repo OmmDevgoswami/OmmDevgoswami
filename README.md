@@ -82,9 +82,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://discord.gg/asahi1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asahi1508" height="30" width="40" /></a>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=OmmDevgoswami&icon=2&color=3)](https://visitcount.itsvg.in)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>
